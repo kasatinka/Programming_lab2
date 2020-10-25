@@ -1,0 +1,26 @@
+pokk/Fomantis.java
+ pokk.Fomantis
+pokk/Eelektrik.java
+ pokk.Eelektrik
+pokk/Battlefield.java
+ pokk.Battlefield
+pokk/Tynamo.java
+ pokk.Tynamo
+pokk/Attacks.java
+ pokk.ChargeBeam
+ pokk.Facade
+ pokk.HydroPump
+ pokk.LowSweep
+ pokk.PoisonJab
+ pokk.Rest
+ pokk.RockSlide
+ pokk.Spark
+ pokk.StoneEdge
+ pokk.SweetScent
+ pokk.ThunderWave
+pokk/Volcanion.java
+ pokk.Volcanion
+pokk/Lurantis.java
+ pokk.Lurantis
+pokk/Eelektross.java
+ pokk.Eelektross
